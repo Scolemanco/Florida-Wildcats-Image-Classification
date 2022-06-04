@@ -1,1 +1,1 @@
-# Florida-Wildlife-Image-Classification
+# Wildlife-Image-Classification
